@@ -1,6 +1,6 @@
 {
-    "version":  "2026.11.20-1618-e613300",
-    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.20-1618-e613300/PoERadar-klein.zip",
-    "notes":  "Einstellungsmenue (F12) mit Reitern statt einer langen Liste",
-    "published":  "2026-11-20T15:18:41.8289148Z"
+    "version":  "2026.11.20-1632-50a25cb",
+    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.20-1632-50a25cb/PoERadar-klein.zip",
+    "notes":  "Gemeinsamer Loot-Tracker (Gruppe): F12 \u003e Gruppe, gleichen Code eintragen",
+    "published":  "2026-11-20T15:32:46.2416672Z"
 }
