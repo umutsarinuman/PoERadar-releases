@@ -1,6 +1,6 @@
 {
-    "version":  "2026.11.20-1632-50a25cb",
-    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.20-1632-50a25cb/PoERadar-klein.zip",
-    "notes":  "Gemeinsamer Loot-Tracker (Gruppe): F12 \u003e Gruppe, gleichen Code eintragen",
-    "published":  "2026-11-20T15:32:46.2416672Z"
+    "version": "2026.11.21-0454-0fb7fcf",
+    "url": "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.21-0454-0fb7fcf/PoERadar-klein.zip",
+    "notes": "Auto Flask (configurable per slot), English settings menu",
+    "published": "2026-11-21T03:54:11Z"
 }
