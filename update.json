@@ -1,6 +1,6 @@
 {
-    "version":  "2026.11.21-1632-9a2806b",
-    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.21-1632-9a2806b/PoERadar-klein.zip",
-    "notes":  "Fix: updater could not install the 2026.11.21 package; auto flask, English settings menu",
-    "published":  "2026-11-21T15:32:21.0583692Z"
+    "version":  "2026.11.22-1530-3167ff2",
+    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.22-1530-3167ff2/PoERadar-klein.zip",
+    "notes":  "Loot tracker: tabs (MAP/SESSION/HISTORY/GROUP) can be switched off in F12 menu",
+    "published":  "2026-11-22T14:31:06.8418008Z"
 }
