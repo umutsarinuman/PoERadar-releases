@@ -1,6 +1,6 @@
 {
-    "version":  "2026.11.22-1530-3167ff2",
-    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.22-1530-3167ff2/PoERadar-klein.zip",
-    "notes":  "Loot tracker: tabs (MAP/SESSION/HISTORY/GROUP) can be switched off in F12 menu",
-    "published":  "2026-11-22T14:31:06.8418008Z"
+    "version":  "2026.11.22-1535-5b0aa82",
+    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.22-1535-5b0aa82/PoERadar-klein.zip",
+    "notes":  "Loot tracker: fix wrong item names after pickup (Divine Orb booked as Divinarius); GROUP page parts and panel tabs can be switched off in F12",
+    "published":  "2026-11-22T14:36:03.0653287Z"
 }
