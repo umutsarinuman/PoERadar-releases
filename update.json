@@ -1,6 +1,6 @@
 {
-    "version":  "2026.11.23-0139-ef952d2",
-    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.23-0139-ef952d2/PoERadar-klein.zip",
-    "notes":  "Loot tracker: dying/portal back into the same map no longer starts a new map or books map costs again; frame limit (F12 \u003e Map) for less CPU load",
-    "published":  "2026-11-23T00:40:00.8728804Z"
+    "version":  "2026.11.26-1833-b4ccb4b",
+    "url":  "https://github.com/umutsarinuman/PoERadar-releases/releases/download/v2026.11.26-1833-b4ccb4b/PoERadar-klein.zip",
+    "notes":  "Loot tracker in its own window (Menu \u003e Loot Tracker \u003e Own window, drag to another screen). Volatile cores hidden on the radar.",
+    "published":  "2026-11-26T17:33:11.3420914Z"
 }
